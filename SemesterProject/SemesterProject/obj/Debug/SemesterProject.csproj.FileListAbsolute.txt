@@ -1,0 +1,10 @@
+I:\TEC151\Feb class\SemesterProject\SemesterProject\bin\Debug\SemesterProject.exe.config
+I:\TEC151\Feb class\SemesterProject\SemesterProject\bin\Debug\SemesterProject.exe
+I:\TEC151\Feb class\SemesterProject\SemesterProject\bin\Debug\SemesterProject.pdb
+I:\TEC151\Feb class\SemesterProject\SemesterProject\obj\Debug\SemesterProject.csproj.AssemblyReference.cache
+I:\TEC151\Feb class\SemesterProject\SemesterProject\obj\Debug\SemesterProject.Form1.resources
+I:\TEC151\Feb class\SemesterProject\SemesterProject\obj\Debug\SemesterProject.Properties.Resources.resources
+I:\TEC151\Feb class\SemesterProject\SemesterProject\obj\Debug\SemesterProject.csproj.GenerateResource.cache
+I:\TEC151\Feb class\SemesterProject\SemesterProject\obj\Debug\SemesterProject.csproj.CoreCompileInputs.cache
+I:\TEC151\Feb class\SemesterProject\SemesterProject\obj\Debug\SemesterProject.exe
+I:\TEC151\Feb class\SemesterProject\SemesterProject\obj\Debug\SemesterProject.pdb
