@@ -1,0 +1,10 @@
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe.config
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.pdb
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.AssemblyReference.cache
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.Form1.resources
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.Properties.Resources.resources
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.GenerateResource.cache
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.exe
+I:\TEC151\Feb class\RockPaperScissorsGame\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.pdb
